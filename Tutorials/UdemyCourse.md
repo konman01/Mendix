@@ -27,6 +27,20 @@
     Create Sales Person Page and mention it as link in the Home Page
   * **Creating Sales Tracking Page** \
     Create Sales Tracking Page and mention it as link in the Home Page
+    
+  ## Domain Model
+  
+  * **What is Domain Model** \
+    Explains what is domain Model and how to create it
+  * **Creating Customer Entity** \
+    Create Entity and Attributes for Customer and Mention it in the customer page grid
+  * **Creating Product Entity** \
+    Create Entity and Attributes for Product and Mention it in the Product Page grid
+  * **Creating Location Entity** \
+    Create Entity and Attributes for Location and Mention it in the Location Page grid
+  * **Creating Sales Person Entity** \
+    Create Entity and Attributes for Sales Persons and Mention it in the Sales Person Page grid
+  
 
  
   
