@@ -33,13 +33,20 @@
   * **What is Domain Model** \
     Explains what is domain Model and how to create it
   * **Creating Customer Entity** \
-    Create Entity and Attributes for Customer and Mention it in the customer page grid
+    Create Entity and Attributes for Customer and Mention it in the customer page grid and Also explains how to create Enumeration
   * **Creating Product Entity** \
-    Create Entity and Attributes for Product and Mention it in the Product Page grid
+    Create Entity and Attributes for Product
   * **Creating Location Entity** \
-    Create Entity and Attributes for Location and Mention it in the Location Page grid
+    Create Entity and Attributes for Location
   * **Creating Sales Person Entity** \
-    Create Entity and Attributes for Sales Persons and Mention it in the Sales Person Page grid
+    Create Entity and Attributes for Sales Persons
+  * **What is Relation Database?** \
+    Explains what is relational database and how tables are mapped using Primary and Foreign Key, explains what is One to One, One to Many and Many to Many relations
+  * **Creating Relation Between Entities** \
+    Create relation between Entities created eallier
+  * **Defining Datagrid Sources** \
+    Define the entities to datagrid created for Customer, Product, Sales Person and Sales Tracking Page
+    
   
 
  
