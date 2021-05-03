@@ -17,3 +17,16 @@
     Explains how to create new Page in Mendix
   * **Handling Error**
   
+  ## Create Sales Mangement System Pages
+  
+  * **Creating Product Page** \
+    Create Product Page and mention it as link in the Home Page
+  * **Creating Location Page** \
+    Create Location Page and mention it as link in the Home Page
+  * **Creating Sales Person Page** \
+    Create Sales Person Page and mention it as link in the Home Page
+  * **Creating Sales Tracking Page** \
+    Create Sales Tracking Page and mention it as link in the Home Page
+
+ 
+  
