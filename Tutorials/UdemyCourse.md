@@ -81,7 +81,12 @@
   * **Understanding Data View 2** \
     Create Save button to commit the object and Back Button to Close the page
   * **Creating Sales Order Draft Entity** \
-    Create Temprory Table for Sales Tracking and Add DataGrid to list the Temprory Sales Tracking Records
+    Create Temprory Table for Sales Tracking and Added DataGrid to list the Temprory Sales Tracking Records. 
+  * **Create Sales Order Draft Page** \
+    Using microflow for Button to open DataView page to create Temprory Sales Tracking Page
+  * **Adjusting Sales Order Draft Page UI** \
+    Add container<DIV> and Text Field to Sales Order Tracking Temprory DataGrid view to improve the UI
+  
   
 
  
