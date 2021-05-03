@@ -205,7 +205,7 @@
   
   
   ### Course Completed Certificate
-  ![Certificate](/images/UdemyCerificate.jpg) Format: ![Alt Text](url)
+  ![Completion Certificate](../images/UdemyCerificate.jpg) Format: ![Alt Text](url)
   
   
   Source: [Udemy Course By Tarik Subaşı](https://www.udemy.com/course/mendix-low-code-application-development-course/)
