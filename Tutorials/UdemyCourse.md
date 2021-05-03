@@ -64,6 +64,10 @@
   * **Adding Data to Sales Tracking Entity** \
     Create, edit and Delete Saled Tacking
     
+  ## Mobile Application
+  
+  * **Creating HomePage** \
+    Create Home Page for Mobile Usage 
   
 
  
