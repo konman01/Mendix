@@ -1,7 +1,7 @@
 
-<h1> Mendix : Low-code Application Development Course <h1>
+# Mendix : Low-code Application Development Course
   
-<h2> Introduction <h2>
+## Introduction
   
   * How to install Mendix
     Install Mendix Pro from Mexdix Website
