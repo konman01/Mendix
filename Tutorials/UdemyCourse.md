@@ -4,7 +4,7 @@
 ## Introduction
   
   * How to install Mendix
-    Install Mendix Pro from Mexdix Website
+      Install Mendix Pro from Mexdix Website
   * Fast Orientation
     How Mendix will be used to create a web application
   * Sales Management System and Bussiness Problem
