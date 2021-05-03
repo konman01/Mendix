@@ -47,6 +47,23 @@
   * **Defining Datagrid Sources** \
     Define the entities to datagrid created for Customer, Product, Sales Person and Sales Tracking Page
     
+  ## Creating Edit Pages and generating Data
+  
+  * **Creating Edit Page** \
+    How to create Edit/New page on New Button 
+  * **Creating Page Navigation** \
+    Create Page Navigation and add links in Navigation
+  * **Adding Data to Customer Entity** \
+    Create, edit and Delete Customers
+  * **Adding Data to Product Entity** \
+    Create, edit and Delete Product
+  * **Adding Data to Location Entity** \
+    Create, edit and Delete Location
+  * **Adding Data to Sales Person Entity** \
+    Create, edit and Delete Sales Person
+  * **Adding Data to Sales Tracking Entity** \
+    Create, edit and Delete Saled Tacking
+    
   
 
  
