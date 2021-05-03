@@ -67,7 +67,21 @@
   ## Mobile Application
   
   * **Creating HomePage** \
-    Create Home Page for Mobile Usage 
+    Create Home Page for Mobile Usage
+  * **Creating Customer and Product Pages** \
+    Create Customer and Product list Pages
+  * **Applying CSS and HTML** \
+    Explines how to add html and css to attributes
+  * **Adjusting Listview cells with CSS** \
+    Add Containers(DIV) and Text fields in the List view of Customer Page
+  * **Adjusting Listview cells with CSS 2** \
+     Add Containers(DIV) and Text fields in the List view of Product Page
+  * **Understanding Data View** \
+    How to open new page by clicking on a item in data grid list - Data View will be used to display one row, Data Grid will be ised to display all the rows in term of list
+  * **Understanding Data View 2** \
+    Create Save button to commit the object and Back Button to Close the page
+  * **Creating Sales Order Draft Entity** \
+    Create Temprory Table for Sales Tracking and Add DataGrid to list the Temprory Sales Tracking Records
   
 
  
