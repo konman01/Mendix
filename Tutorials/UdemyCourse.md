@@ -203,7 +203,7 @@
   Adding links to Mobile navigation bar
   
   
-  Source: http://github.com - automatic! [GitHub](https://www.udemy.com/course/mendix-low-code-application-development-course/)
+  Source: [Udemy Course By Tarik Subaşı](https://www.udemy.com/course/mendix-low-code-application-development-course/)
   
   
   
