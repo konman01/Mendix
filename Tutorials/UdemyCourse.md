@@ -123,6 +123,18 @@
     Usage of Union, Intersection, Subtact, Contains, Sort, Filter, Find, Tail operations on the List
   * **Send Draft Sales to Real System** \
     Added functionality to send the Temprory Sales Tracking Objects to Real Sales Tracking Object
+    
+  ## XPATH
+  
+  * **XPath String Function** \
+    Explains XPath and XPath String Function to Filter Data
+  * **XPath Data Function** \
+    XPath Date Function to Filter Data
+  * **XPath as Datasourse** \
+    Usage of XPath to filter Data to View on Grid
+  * **XPATH and System Variables** \
+    Usage of System Variables in XPath Constaint
+  
   
   
     
